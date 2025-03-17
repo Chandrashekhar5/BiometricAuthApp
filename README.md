@@ -82,6 +82,7 @@ Acts as the intermediary between the `Model` and the `View`.
 
 ### Test Biometric Authentication:
 1. Run the app on a physical device with Face ID or Touch ID.
+2. Use **chandra@gmail.com** for successfull Authentication.
 2. Verify that the biometric prompt appears and authentication works.
 
 ### Test Backend Integration:
